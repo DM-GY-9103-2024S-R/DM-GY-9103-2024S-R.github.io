@@ -6,7 +6,11 @@
 
   {% if hw.programming.description and hw.programming.description.size > 0 %}
     <h3 class="assignment-content-title programming-title">
-      <span>Programming ({{ hw.programming.points }} points)</span>
+      {% if hw.programming.points %}
+        <span>Programming ({{ hw.programming.points }} points)</span>
+      {% else %}
+        <span>Programming</span>
+      {% endif %}
     </h3>
     <div class="assignment-content-container">
       {{ hw.programming.description | markdownify }}
@@ -15,7 +19,11 @@
 
   {% if hw.reading and hw.reading.description.size > 0 %}
     <h3 class="assignment-content-title reading-title">
-      <span>Read & Respond ({{ hw.reading.points }} points)</span>
+      {% if hw.reading.points %}
+        <span>Read & Respond ({{ hw.reading.points }} points)</span>
+      {% else %}
+        <span>Reading</span>
+      {% endif %}
     </h3>
     <div class="assignment-content-container">
       {{ hw.reading.title | markdownify }}

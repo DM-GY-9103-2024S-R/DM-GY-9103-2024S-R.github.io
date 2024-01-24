@@ -18,13 +18,13 @@ Download and install [GitHub Desktop](https://desktop.github.com/). This is the 
 
 The easiest way to get started is to use [Google Colab](https://colab.research.google.com/) notebooks online.
 
-Otherwise, install [conda](https://docs.conda.io/projects/conda) to manage packages and projects on a local computer.
+OTHERWISE, if running locally, install [conda](https://docs.conda.io/projects/conda) to manage python versions and packages:
 
 - [Mac Install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
 - [Win Install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html)
 - [Linux Install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 
-## IDE
+## IDE (if running locally)
 
 [VSCode](https://code.visualstudio.com/) and the following extensions are useful if running on a local computer:
 

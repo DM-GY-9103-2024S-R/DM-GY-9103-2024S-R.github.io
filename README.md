@@ -31,6 +31,8 @@ Introduction to Creative Coding (DM-GY 6063 / DM-UY 1133)
 Students in this course will:
 
 - Learn the basics of ML
+- TBD
+- TBD
 
 ---
 
@@ -76,19 +78,21 @@ Letter grades for the entire course will be assigned as follows:
 ### Week 02 (2024/02/01)
 - More Python
 - Images and Data Structures
-
-### Week 03 (2024/02/15)
-- More Data Structures
-- Some linear algebra
+- Slicing
 - NumPy
 
-### Week 04 (2024/02/29)
-- TBD
+### Week 03 (2024/02/08)
+- Independent Study
 
-### Week 05 (2024/xx/xx)
-- TBD
+### Week 04 (2024/02/15)
+- More Data Structures
+- More NumPy
+- Some linear algebra
 
-### Week 06 (2024/xx/xx)
+### Week 05 (2024/02/22)
+- Independent Study
+
+### Week 06 (2024/02/29)
 - TBD
 
 ### Week 07 (2024/xx/xx)
