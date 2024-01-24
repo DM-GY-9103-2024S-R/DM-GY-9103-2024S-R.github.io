@@ -1,0 +1,27 @@
+title: Special Topics in Digital Media (DM-GY 9103) Spring 2024 Section R
+
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+
+# Local dev settings
+port: 9103
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "README.md"
+    values:
+      layout: "page"
+      permalink: /
+      title: DM-GY 9103 2024S R Syllabus
