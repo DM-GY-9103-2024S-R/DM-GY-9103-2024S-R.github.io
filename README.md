@@ -6,7 +6,7 @@
 
 - Instructor: [Thiago Hersan](https://thiagohersan.com)
 - email: [thiago.hersan@nyu.edu](mailto:thiago.hersan@nyu.edu)
-- Website: ~~[https://6063D.github.io](https://6063D.github.io)~~
+- Website: [https://9103R.github.io](https://9103R.github.io)
 
 ## Important Dates (for this course)
 

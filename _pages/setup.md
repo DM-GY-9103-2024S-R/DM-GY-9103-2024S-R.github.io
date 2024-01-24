@@ -16,9 +16,9 @@ Download and install [GitHub Desktop](https://desktop.github.com/). This is the 
 
 ## Python
 
-Easiest way to get started is to use [Google Colab](https://colab.research.google.com/) notebooks online.
+The easiest way to get started is to use [Google Colab](https://colab.research.google.com/) notebooks online.
 
-Otherwise, use [conda](https://docs.conda.io/projects/conda) to manage packages and projects on a local computer.
+Otherwise, install [conda](https://docs.conda.io/projects/conda) to manage packages and projects on a local computer.
 
 - [Mac Install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
 - [Win Install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html)
@@ -26,7 +26,7 @@ Otherwise, use [conda](https://docs.conda.io/projects/conda) to manage packages 
 
 ## IDE
 
-Also useful if running on a local computer is [VSCode](https://code.visualstudio.com/) with the following extensions:
+[VSCode](https://code.visualstudio.com/) and the following extensions are useful if running on a local computer:
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -36,5 +36,4 @@ Also useful if running on a local computer is [VSCode](https://code.visualstudio
 - [Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)
 - [Jupyter Renderer](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
 
-Feel free to use other IDEs/text editors. I like VSCode because it makes it easy to work with git and Jupyter notebooks.
-
+Feel free to use other IDEs/text editors. VSCode is nice because it makes it easy to work with git and Jupyter notebooks.
