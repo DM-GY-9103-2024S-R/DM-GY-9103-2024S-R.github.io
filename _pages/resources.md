@@ -2,7 +2,6 @@
 ---
 # Resources
 
-- [Course website](https://dm-gy-9103-2024s-r.github.io/)
 - [Course GitHub](https://github.com/DM-GY-9103-2024S-R)
 - [Development Environment Setup](../setup/)
 

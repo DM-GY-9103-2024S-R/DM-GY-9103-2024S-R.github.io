@@ -1,6 +1,6 @@
 ---
 ---
-# NYU | Tandon School of Engineering | Integrated Design & Media
+# NYU | Tandon School of Engineering<br>Integrated Design & Media
 
 # DM-GY 9103 | Special Topics in Digital Media<br>Spring 2024, Section R
 
@@ -36,7 +36,11 @@ Students in this course will:
 
 ---
 
-### Assignments
+### Programming Assignments
+
+TBD
+
+### Reading Assignments
 
 TBD
 
@@ -51,7 +55,7 @@ The grade for this course will be determined according to the following:
 | Activity | % of Final Grade |
 | --- | --- |
 | Programming Assignments | 50% |
-| Midterm Project | 20% |
+| Readings | 20% |
 | Final Project | 30% |
 
 Letter grades for the entire course will be assigned as follows:
