@@ -75,23 +75,23 @@ Letter grades for the entire course will be assigned as follows:
 
 ### Week 01 (2024/01/25)
 - Intro to Intro to ML
-- Review Programming
 - Intro to Python
 - Setting up Python and GitHub
 
 ### Week 02 (2024/02/01)
+- GitHub
+- Review Programming
 - More Python
-- Images and Data Structures
-- Slicing
-- NumPy
 
 ### Week 03 (2024/02/08)
 - Independent Study
 
 ### Week 04 (2024/02/15)
-- More Data Structures
-- More NumPy
+- Images and Data Structures
+- Slicing
+- NumPy
 - Some linear algebra
+- Pandas
 
 ### Week 05 (2024/02/22)
 - Independent Study
@@ -147,7 +147,7 @@ Additional reading materials will be distributed throughout the semester.
 
 ## Resources
 
-- ~~[Class Website](https://dm-gy-6063-2023f-d.github.io/)~~
+- [Class Website](https://dm-gy-9103-2024s-r.github.io/)
 - [Books, articles, etc](https://library.nyu.edu)
 - [NYU Writing Center](https://nyu.mywconline.com)
 - [NYU IT Service](https://nyu.edu/it/servicedesk)
