@@ -28,25 +28,31 @@ Introduction to Creative Coding (DM-GY 6063 / DM-UY 1133)
 
 ## Course Objectives
 
-Students in this course will:
+By the end of the course, students will have:
 
-- Learn the basics of ML
-- TBD
-- TBD
+- Experience with the Python language and libraries for working with data (numpy, pandas, scikit-learn).
+- Knowledge of data structures and algorithms used for analyzing and processing different types of media.
+- Basic understanding of neural networks and how they are trained and evaluated.
+- Practical experience with the PyTorch framework for developing computer vision and natural language models.
+- Ability to pick appropriate methods, models and datasets for creating their own machine learning systems.
 
 ---
 
 ### Programming Assignments
 
-TBD
+Biweekly exercises to experiment with the Python language and libraries for working with data.
 
 ### Reading Assignments
 
-TBD
+Four readings from books about the social implications of machine learning and big data systems.
 
-### Projects
+Two readings of classic ML papers.
 
-TBD
+### Project
+
+Around week 10 we will start working on a longer project that will combine many of the topics covered in the class like: data collection and processing, model selection, training and evaluation.
+
+The project will be broken up into milestones for different aspects of its development.
 
 ## Grading
 
