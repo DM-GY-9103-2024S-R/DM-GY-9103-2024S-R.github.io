@@ -93,35 +93,38 @@ Letter grades for the entire course will be assigned as follows:
 - Independent Study
 
 ### Week 04 (2024/02/15)
-- Images and Data Structures
-- Slicing
-- NumPy
-- Some linear algebra
-- Pandas
+- Data Structures for media
+- Strings & N-grams
+- Audio & FFTs
 
 ### Week 05 (2024/02/22)
-- Independent Study
+- Data Structures for media
+- Images & Filters
 
 ### Week 06 (2024/02/29)
-- TBD
+- Independent Study
 
 ### Week 07 (2024/xx/xx)
-- TBD
+- Pandas + NumPy
+- Dataset Exploration
 
 ### Week 08 (2024/xx/xx)
-- TBD
+- Some linear algebra
+- ML with scikit-learn
 
 ### Week 09 (2024/xx/xx)
-- TBD
+- Independent Study
 
 ### Week 10 (2024/xx/xx)
-- TBD
+- More scikit-learn
+- Neural Networks
 
 ### Week 11 (2024/xx/xx)
-- TBD
+- Neural Networks
+- PyTorch
 
 ### Week 12 (2024/xx/xx)
-- TBD
+- Independent Study
 
 ### Week 13 (2024/xx/xx)
 - TBD
