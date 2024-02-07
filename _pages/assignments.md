@@ -1,5 +1,5 @@
 ---
 ---
-# Weekly Assignments
+# Assignments
 
 {% include assignments.html %}

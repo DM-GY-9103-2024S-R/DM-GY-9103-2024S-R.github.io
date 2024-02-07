@@ -52,6 +52,11 @@
 
   {% assign phw = site.pages | where_exp: "h", "h.url contains '/homework/'" %} 
   {% assign hw = phw | where_exp: "h", "h.slug == p.slug" | first %}
+
+  {% if p.homework %}
+    {% assign hw = phw | where_exp: "h", "h.slug == p.homework" | first %}
+  {% endif %}
+
   <h3><a href="{{ hw.url }}">{{ hw.title }} | due: {{ hw.when }}</a></h3>
 
 </div>
