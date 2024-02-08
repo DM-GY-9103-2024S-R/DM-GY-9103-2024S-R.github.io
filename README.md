@@ -94,7 +94,7 @@ Letter grades for the entire course will be assigned as follows:
 - Python functions and classes
 
 ### Week 04 (2024/02/15)
-- Python lists and objects
+- Python lists and objects for data
 - Datasets and Matplotlib
 
 ### Week 05 (2024/02/22)
