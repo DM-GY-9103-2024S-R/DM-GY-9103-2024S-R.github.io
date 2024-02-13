@@ -101,30 +101,29 @@ Letter grades for the entire course will be assigned as follows:
 - Independent Study
 
 ### Week 06 (2024/02/29)
-- Data Structures for media
-- Strings & N-grams
-- Audio & FFTs
+- Pandas & Dataset Exploration
+- Scaling & Encoding
 
 ### Week 07 (2024/xx/xx)
-- Data Structures for media
-- Images & Filters
+- Training: supervised vs unsupervised
+- Regression vs Classification
+- ML with scikit-learn
 
 ### Week 08 (2024/xx/xx)
 - Independent Study
 
 ### Week 09 (2024/xx/xx)
-- Pandas + NumPy
-- Dataset Exploration
+- Data Structures for media
+- Numpy
+- Audio & Images
 
 ### Week 10 (2024/xx/xx)
-- Some linear algebra
-- ML with scikit-learn
+- Data Structures for media
 
 ### Week 11 (2024/xx/xx)
 - Independent Study
 
 ### Week 12 (2024/xx/xx)
-- More scikit-learn
 - Neural Networks
 
 ### Week 12 (2024/xx/xx)
@@ -192,7 +191,7 @@ All work for this class must be our own and specific to this semester. Any work 
 
 There's an amount of sharing and re-using that will happen in this course due to the open source nature of the libraries, tools and learning materials we will be using. Plus a lot of assignments will be turned in using github, a platform for sharing code and other content.
 
-Nonetheless, we have to be careful and conscious about the difference between using available tools that help with our learning experience and submitting other people's work as our own. It's not hard to find code online that will do things similar to, or exactly alike, the things you will developing for this class. It is NOT ok to use those as part of an assignment or project for this class.
+Nonetheless, we have to be careful and conscious about the difference between using available tools that help with our learning experience and submitting other people's work as our own. It's not hard to find code online that will do things similar to, or exactly alike, the things you will be developing for this class. It is NOT ok to use those as part of an assignment or project for this class.
 
 On the other hand, it's also not hard to find code/libraries/packages/examples that solve specific technical tasks that are part of a larger project or assignment. For example: a library that converts gifs into movies or code for working with different text encodings. These are specific tasks that we aren't going to solve on our own, so using an open source solution is acceptable and expected.
 
