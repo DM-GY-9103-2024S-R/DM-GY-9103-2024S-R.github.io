@@ -105,8 +105,8 @@ Letter grades for the entire course will be assigned as follows:
 - Scaling & Encoding
 
 ### Week 07 (2024/xx/xx)
-- Training: supervised vs unsupervised
 - Regression vs Classification
+- Supervised vs Unsupervised
 - ML with scikit-learn
 
 ### Week 08 (2024/xx/xx)
