@@ -94,11 +94,11 @@ Letter grades for the entire course will be assigned as follows:
 - Python functions and classes
 
 ### Week 04 (2024/02/15)
-- Python lists and objects for data
-- Datasets and Matplotlib
+- Independent Study
 
 ### Week 05 (2024/02/22)
-- Independent Study
+- Python lists and objects for data
+- Datasets and Matplotlib
 
 ### Week 06 (2024/02/29)
 - Pandas & Dataset Exploration
@@ -107,7 +107,7 @@ Letter grades for the entire course will be assigned as follows:
 ### Week 07 (2024/xx/xx)
 - Regression vs Classification
 - Supervised vs Unsupervised
-- ML with scikit-learn
+- ML with Scikit-Learn
 
 ### Week 08 (2024/xx/xx)
 - Independent Study
