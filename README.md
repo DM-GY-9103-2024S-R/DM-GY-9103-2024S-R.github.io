@@ -110,21 +110,21 @@ Letter grades for the entire course will be assigned as follows:
 - Independent Study
 
 ### Week 09 (2024/03/28)
-- Pandas & Dataset Exploration
-- Scaling & Encoding
-
-### Week 10 (2024/04/04)
-- Regression vs Classification
-- Supervised vs Unsupervised
-- ML with Scikit-Learn
-
-### Week 11 (2024/04/11)
-- Independent Study
-
-### Week 12 (2024/04/18)
 - Data Structures for media
 - Numpy
 - Audio & Images
+
+### Week 10 (2024/04/04)
+- Independent Study
+
+### Week 11 (2024/04/11)
+- Pandas & Dataset Exploration
+- Scaling & Encoding
+
+### Week 12 (2024/04/18)
+- Regression vs Classification
+- Supervised vs Unsupervised
+- ML with Scikit-Learn
 
 ### Week 13 (2024/04/25)
 - Independent Study
