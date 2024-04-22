@@ -110,7 +110,7 @@ Letter grades for the entire course will be assigned as follows:
 - Independent Study
 
 ### Week 09 (2024/03/28)
-- Independent Study
+- HW02 Review
 
 ### Week 10 (2024/04/04)
 - Data Structures for media
@@ -123,7 +123,7 @@ Letter grades for the entire course will be assigned as follows:
 - Audio & Images
 
 ### Week 12 (2024/04/18)
-- Independent Study
+- HW03 Review
 
 ### Week 13 (2024/04/25)
 - Pandas & Dataset Exploration
